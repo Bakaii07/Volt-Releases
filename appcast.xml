@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Volt</title>
+    <item>
+      <title>Volt 1.1</title>
+      <pubDate>Thu, 26 Nov 2026 10:59:50 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Self-updates (Settings › About › Updates), new battery panel, number inside the menu-bar battery, AirPods case charging from the case itself.</p>]]></description>
+      <enclosure url="https://github.com/Bakaii07/Volt-Releases/releases/download/v1.1/Volt-1.1.dmg" type="application/octet-stream" sparkle:edSignature="CXJ4S1fjtEC6FOWQTfV6FFPjZ0/erKAtr7GuQciYntXp327kAJZsKkhWivIfmS3Keyaia7VnLSoZdLn3T4cqCA==" length="27496788" />
+    </item>
   </channel>
 </rss>
