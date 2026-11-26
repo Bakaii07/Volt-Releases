@@ -3,6 +3,15 @@
   <channel>
     <title>Volt</title>
     <item>
+      <title>Volt 1.1.2</title>
+      <pubDate>Thu, 26 Nov 2026 11:40:55 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Low Power Mode switch works on every Mac: the first time, Volt asks for your password once, then it switches without asking. Never jumps into System Settings anymore.</p>]]></description>
+      <enclosure url="https://github.com/Bakaii07/Volt-Releases/releases/download/v1.1.2/Volt-1.1.2.dmg" type="application/octet-stream" sparkle:edSignature="Y7qCvzJz0fwg8WpJfj286zjOwB1N7+vjTuu8Yr566tsicjUMBzjkWIYYHrwUGTk5dimJDvg5WGPhGac+ofurCQ==" length="27549252" />
+    </item>
+    <item>
       <title>Volt 1.1.1</title>
       <pubDate>Thu, 26 Nov 2026 11:03:47 GMT</pubDate>
       <sparkle:version>3</sparkle:version>
