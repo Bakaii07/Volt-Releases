@@ -3,6 +3,15 @@
   <channel>
     <title>Volt</title>
     <item>
+      <title>Volt 1.2.1</title>
+      <pubDate>Fri, 27 Nov 2026 17:19:07 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Privacy: Volt&#x27;s Bluetooth now only connects to devices paired with your Mac, never to anyone else&#x27;s phone nearby. Plus small fixes.</p>]]></description>
+      <enclosure url="https://github.com/Bakaii07/Volt-Releases/releases/download/v1.2.1/Volt-1.2.1.dmg" type="application/octet-stream" sparkle:edSignature="+zLCHbehXpXU8x4iHqRtQBdju71Elj9MSg2KZxuCbV6xS09sgQe/dauEk/5VmDb3KA1joOIl2HCTePJfVUBGAg==" length="27661317" />
+    </item>
+    <item>
       <title>Volt 1.2</title>
       <pubDate>Fri, 27 Nov 2026 11:23:00 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
