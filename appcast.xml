@@ -3,6 +3,15 @@
   <channel>
     <title>Volt</title>
     <item>
+      <title>Volt 1.1.3</title>
+      <pubDate>Fri, 27 Nov 2026 10:43:01 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Your iPhone and iPad now stay on the widget: Volt stays connected and gets every battery change instantly, and reconnects by itself when they come back in range.</p>]]></description>
+      <enclosure url="https://github.com/Bakaii07/Volt-Releases/releases/download/v1.1.3/Volt-1.1.3.dmg" type="application/octet-stream" sparkle:edSignature="Sa3r0hV+l5U+i1TOwuNw0GNyEq36NP4atDi97awYbp2P2d2VKG/31IKZG2jfw9KpKyXb47x8Nm7bjHu/eyxiBA==" length="27576887" />
+    </item>
+    <item>
       <title>Volt 1.1.2</title>
       <pubDate>Thu, 26 Nov 2026 11:40:55 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
